@@ -1,5 +1,5 @@
 # PokerGrid
-Interactive poker range matrix made with Poker and PyGame libraries from PiPy. Allows to select a range with a GUI. In the future it's supposed to be a MiniFlopzilla - or a simple preflop odds calculator.
+Interactive poker range matrix made with Poker and PyGame libraries from PiPy. Allows to select a range with a GUI. In the future it's supposed to be a MiniFlopzilla - or a simple preflop odds calculator range vs range.
 
 
 

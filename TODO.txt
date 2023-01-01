@@ -1,0 +1,30 @@
+
+-REFACTOR CON CLASES:
+    - VENTANA:
+        - SUPERFICIE
+        - MARCO
+        - GRIDS
+        - BOTONES
+
+
+- Crear dos grids : 
+    -- una para el rango del jugador en la primera posición
+    -- otra para el rango del oponente
+
+CÁLCULO DE ODDS Y DE VARIANZA: 
+
+** MONTECARLO **
+Monte Carlo simulation, the basic idea is that you create a program that simulates something — like a game, investment portfolio
+or how certain molecules might interact with each other. Then you run that program over and over again, keeping track of each sim. 
+The results of these sims can then be used to analyze the probabilities of certain outcomes of the event you were simulating
+
+
+- Calcular el EV esperado para cada jugador en función de los rangos con una simulación de Montecarlo
+    => usar comando poker-odds de https://github.com/cookpete/poker-odds
+
+
+- Simulación de Montecarlo de comparación entre rangos: 
+    -- Mostrar ev de un rango contra otro (selección de manos en ambos casos)
+    -- Mostrar ev de una mano contra todas las manos (ev del rango de una mano vs un rango de todas las manos)
+    -- Mostrar las probabilidades finales para un número dado de simulaciones
+    -- Analizar desviación, varianza, e intervalo de confianza para los resultados

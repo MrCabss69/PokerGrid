@@ -1,13 +1,8 @@
 
--REFACTOR CON CLASES:
-    - VENTANA:
-        - SUPERFICIE
-        - MARCO
-        - GRIDS
-        - BOTONES
+-REFACTOR ✔️
 
-
-- Crear dos grids : 
+TODO:
+Crear dos grids : 
     -- una para el rango del jugador en la primera posición
     -- otra para el rango del oponente
 
